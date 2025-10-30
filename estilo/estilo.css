@@ -7,3 +7,13 @@
   font-size: large;
   cursor: pointer;
 }
+#contato_botao {
+  width: 150px;
+  height: 40px;
+  border-radius: 5px;
+  border: none;
+  background-color: rgb(63, 117, 161);
+  cursor: pointer;
+  font-size: large;
+  font-style: bold;
+}
