@@ -1,0 +1,9 @@
+#botao-cadastro {
+  width: 150px;
+  height: 40px;
+  border: none;
+  background-color: rgb(134, 130, 130);
+  border-radius: 5px;
+  font-size: large;
+  cursor: pointer;
+}
